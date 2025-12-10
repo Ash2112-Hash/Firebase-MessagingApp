@@ -14,7 +14,3 @@ This messaging application allows authorized users to connect through messages, 
 
 ## Project Team:
 - Ashwin Unnithan
-- Lydia Farag
-- Samarth Kumar
-- Fei Xie
-- Mike Chen
